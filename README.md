@@ -5,7 +5,7 @@ In fact, this project is sooo simple that you can (and I plan to) use it as temp
 
 
 - Feel the convinience of coding Python with Visual Studio *Intellisense* and debugging features
-- Deploy your application to the Google App Engine cloud platform and see it up and running online. Straightforward deployment and, more importantly, free hosting* *#yaaay!* 
+- Deploy your application to the Google App Engine cloud platform and see it up and running online. Straightforward deployment and free hosting* *#yaaay!* 
 
 Created on Windows 10 using :
 -------
@@ -27,7 +27,7 @@ Step by step for debugging this project using Visual Studio 2015 :
 
 References :
 - StackOverflow. [Debugging GAE in Python Tools for Visual Studio](http://stackoverflow.com/questions/17633045/debugging-gae-in-python-tools-for-visual-studio)
-- [Django on Google App Engine series](http://django-appengine.com/) (with some modifications to make it work with Django 1.9)
+- [Django on Google App Engine series](http://django-appengine.com/) (with some modifications to make it work with the newer Django version 1.9)
 
 
   [1]: http://i.stack.imgur.com/8Bouw.png
