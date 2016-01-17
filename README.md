@@ -4,8 +4,8 @@ Specifically, this is Guestbook sample application based on the official Python 
 In fact, this project is sooo simple that you can (and I plan to) use it as template for new Django App Engine project.
 
 
-- Feel the convinience of coding Python with Visual Studio *Intellisense* and debugging features
-- Deploy your application to the Google App Engine cloud platform and see it up and running online. Straightforward deployment and free hosting* *#yaaay!* 
+- Feel the convinience of coding Python assisted with Visual Studio *Intellisense* and debugging features (especially if you're coming from .NET background)
+- Deploy your application to the Google App Engine cloud platform and see it up and running online right away. Straightforward deployment and free hosting* *#yaaay!* 
 
 Created on Windows 10 using :
 -------
